@@ -1,0 +1,17 @@
+Derlenmiş EXE hali Project1'in içinde build klasöründedir.
+\Project1\build\build64\bin\Release
+
+Cmake dosyaları build klasöründedir
+C:\Users\efess\Desktop\bastan\son\Project1\Project1\build\build64
+
+Cmake list Project1 klasöründedir
+C:\Users\efess\Desktop\bastan\son\Project1\Project1
+
+Cmake 64 bit derleme kaynağı (cmakelists.txt nin ilk commentlerinde 64 bit derleme için lazım olan komutlar var):
+https://stackoverflow.com/questions/28350214/how-to-build-x86-and-or-x64-on-windows-from-command-line-with-cmake
+
+Gerekli olması durumunda bilgisayarda eksik dll varsa diye lazım olabilecek dll'leri dll isimli rara ekledim
+-bu durumda rardaki dosyaları EXE dosyasının bulunduğu klasöre çıkartarak çalıştırabilirsiniz.
+(C++ eklentileri kurulu olmayan bir pc'de açmak gerekirse)
+
+EFE SALGIR
